@@ -341,8 +341,8 @@ class Ui_Form(CarbonFootprintCalculator):
     #         # db.run()
     #         mydb = mysql.connector.connect(
     #             host="localhost",
-    #             user="root",
-    #             password="25062000",
+    #             user="",
+    #             password=""
     #             database="mydbcf"
     #         )
     #         mycursor = mydb.cursor()
